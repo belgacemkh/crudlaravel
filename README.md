@@ -1,2 +1,2 @@
 ## Laravel crud application
-This is a laravel crud appalication
+This is a laravel crud application
